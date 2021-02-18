@@ -4,7 +4,14 @@ module.exports = {
   ],
   darkMode: 'media', // or 'media' or 'class'
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        'letterboxd': '#fe8000',
+        'linkedin': '#005280',
+        'twitter': '#1ea1f1',
+        'github': '#000000',
+      }
+    },
   },
   variants: {
     extend: {
