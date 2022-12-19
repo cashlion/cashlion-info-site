@@ -10,6 +10,7 @@ module.exports = {
         'linkedin': '#005280',
         'twitter': '#1ea1f1',
         'github': '#000000',
+        'mastodon': '#595aff'
       }
     },
   },
